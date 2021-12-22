@@ -10,4 +10,4 @@ The dataset collected contains the following columns:\
 -'Stuck': Type of stuck.\
 -'inkl	': More information about deleviry.\
 -'name': The product name.\
--'price': The product price.\
+-'price': The product price.
